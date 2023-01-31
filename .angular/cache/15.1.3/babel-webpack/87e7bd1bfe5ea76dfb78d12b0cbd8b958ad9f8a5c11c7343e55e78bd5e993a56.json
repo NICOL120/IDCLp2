@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function readonly() {\n  return (target, key, descriptor) => {\n    descriptor.writable = false;\n    return descriptor;\n  };\n}\n//# sourceMappingURL=readonly.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

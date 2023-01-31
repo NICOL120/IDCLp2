@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { throttlify } from './throttlify';\nexport { throttle } from './throttle';\n//# sourceMappingURL=throttle.index.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

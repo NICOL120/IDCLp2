@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { delay } from './delay';\nexport { delayfy } from './delayfy';\n//# sourceMappingURL=delay.index.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

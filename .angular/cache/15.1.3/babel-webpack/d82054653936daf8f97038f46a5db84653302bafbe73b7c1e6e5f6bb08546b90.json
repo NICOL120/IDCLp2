@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function debouncify(originalMethod, delayMs) {\n  let handler;\n  return function (...args) {\n    clearTimeout(handler);\n    handler = setTimeout(() => {\n      originalMethod.apply(this, args);\n    }, delayMs);\n  };\n}\n//# sourceMappingURL=debouncify.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

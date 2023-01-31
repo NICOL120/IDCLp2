@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function delayfy(originalMethod, delayMs) {\n  return function (...args) {\n    setTimeout(() => {\n      originalMethod.apply(this, args);\n    }, delayMs);\n  };\n}\n//# sourceMappingURL=delayfy.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

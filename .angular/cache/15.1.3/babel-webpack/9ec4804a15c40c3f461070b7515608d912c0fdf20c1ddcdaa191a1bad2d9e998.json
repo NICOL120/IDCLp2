@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { execTime } from './exec-time';\nexport { execTimify } from './exec-timify';\n//# sourceMappingURL=exec-time.index.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

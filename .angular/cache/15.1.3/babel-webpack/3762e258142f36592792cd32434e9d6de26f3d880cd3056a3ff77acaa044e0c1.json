@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { fromFetch } from '../internal/observable/dom/fetch';\n//# sourceMappingURL=index.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

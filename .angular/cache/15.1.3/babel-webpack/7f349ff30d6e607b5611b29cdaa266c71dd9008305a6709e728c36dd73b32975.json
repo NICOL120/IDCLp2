@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { before } from './before';\nexport { beforify } from './beforify';\n//# sourceMappingURL=before.index.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

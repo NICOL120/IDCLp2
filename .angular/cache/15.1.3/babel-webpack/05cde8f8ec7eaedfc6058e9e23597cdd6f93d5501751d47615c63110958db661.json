@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { TimeoutError } from './timeout-error';\nexport { timeoutify } from './timeoutify';\nexport { timeout } from './timeout';\n//# sourceMappingURL=timeout.index.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
