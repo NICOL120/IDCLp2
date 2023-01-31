@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { cancelPreviousify } from './cancel-previousify';\nexport { CanceledPromise } from './canceled-promise';\nexport { cancelPrevious } from './cancel-previous';\nexport * from './cancel-previous.model';\n//# sourceMappingURL=cancel-previous.index.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { multiDispatch } from './multi-dispatch';\nexport { multiDispatchify } from './multi-dispatchify';\n//# sourceMappingURL=multi-dispatch.index.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

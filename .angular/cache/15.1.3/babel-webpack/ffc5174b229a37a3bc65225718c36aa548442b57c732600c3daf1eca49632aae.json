@@ -1,1 +1,0 @@
-{"ast":null,"code":"export function isPromise(obj) {\n  return !!(obj && obj.then !== undefined);\n}\nexport function sleep(n) {\n  return new Promise(resolve => setTimeout(resolve, n));\n}\n//# sourceMappingURL=utils.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

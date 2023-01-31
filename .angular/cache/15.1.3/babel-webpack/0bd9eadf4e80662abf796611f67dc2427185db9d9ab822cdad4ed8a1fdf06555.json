@@ -1,1 +1,0 @@
-{"ast":null,"code":"export const toBase64 = obj => {\n  return Buffer.from(JSON.stringify(obj)).toString('base64');\n};\nexport const fromBase64 = str => {\n  return JSON.parse(Buffer.from(str, 'base64').toString());\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

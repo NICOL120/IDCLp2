@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { memoize } from './memoize';\nexport { memoizify } from './memoizify';\n//# sourceMappingURL=memoize.index.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

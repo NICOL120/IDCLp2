@@ -1,1 +1,0 @@
-{"ast":null,"code":"export class CanceledPromise extends Error {\n  constructor() {\n    super('canceled');\n    Object.setPrototypeOf(this, CanceledPromise.prototype);\n  }\n}\n//# sourceMappingURL=canceled-promise.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

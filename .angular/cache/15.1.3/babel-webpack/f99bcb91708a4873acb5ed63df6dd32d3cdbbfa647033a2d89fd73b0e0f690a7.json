@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { rateLimitify } from './rate-limitify';\nexport { rateLimit } from './rate-limit';\nexport * from './rate-limit.model';\n//# sourceMappingURL=rate-limit.index.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

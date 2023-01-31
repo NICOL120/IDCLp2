@@ -1,1 +1,0 @@
-{"ast":null,"code":"import { InjectionToken } from '@angular/core';\nexport const defaultFarmConfig = {\n  controller_fee: 0.01,\n  platform_fee: 0.01,\n  community_fee: 0.03\n};\nexport const FARM_INFO_SERVICE = new InjectionToken('FARM_INFO_SERVICE');","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

@@ -1,1 +1,0 @@
-{"ast":null,"code":"export class TimeoutError extends Error {\n  constructor(ms) {\n    super(`timeout occurred after ${ms}`);\n    Object.setPrototypeOf(this, TimeoutError.prototype);\n  }\n}\n//# sourceMappingURL=timeout-error.js.map","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
