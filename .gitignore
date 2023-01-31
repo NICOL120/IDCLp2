@@ -1,6 +1,5 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 package-lock.json
-firebase-debug.log
 
 # compiled output
 /dist
@@ -46,4 +45,5 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+package-lock.json
 /.firebase/*.cache
