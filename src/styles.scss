@@ -1,13 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
 
 @import "scss/variables";
-@import "node_modules/mdb-angular-ui-kit/assets/scss/free/variables.scss";
+@import "~mdb-angular-ui-kit/assets/scss/free/variables";
 @import "scss/dark";
-@import 'node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss';
-@import 'node_modules/@fortawesome/fontawesome-free/scss/solid.scss';
-@import 'node_modules/@fortawesome/fontawesome-free/scss/regular.scss';
-@import 'node_modules/@fortawesome/fontawesome-free/scss/brands.scss';
-@import 'node_modules/mdb-angular-ui-kit/assets/scss/mdb.scss';
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+@import "~@fortawesome/fontawesome-free/scss/regular";
+@import "~@fortawesome/fontawesome-free/scss/brands";
+@import "~mdb-angular-ui-kit/assets/scss/mdb";
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 html,
@@ -454,31 +454,6 @@ input[type="number"] {
   background: $kujira;
   background: -webkit-linear-gradient(315deg, darken($kujira, 7%) 0%, $kujira 50%);
   background: linear-gradient(315deg, darken($kujira, 7%) 0%, $kujira 50%);
-}
-
-.bg-Stader {
-  background: $stader-bg;
-  border: solid 1px $stader;
-}
-
-.bg-Terrapoker {
-  background: $terrapoker-bg;
-  border: solid 1px $terrapoker;
-}
-
-.bg-Eris {
-  background: $eris-bg;
-  border: solid 1px $eris;
-}
-
-.bg-Backbone {
-  background: $backbone-bg;
-  border: solid 1px $backbone;
-}
-
-.bg-Redacted {
-  background: $redacted-bg;
-  border: solid 1px $redacted;
 }
 
 .bg-your-rewards {
@@ -1143,10 +1118,8 @@ i.fa-sort-down {
 }
 
 .tooltip-inner {
-  min-width: 240px;
+  min-width: 100px;
   max-width: 100%;
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
 }
 
 .apyapr-tooltip {
